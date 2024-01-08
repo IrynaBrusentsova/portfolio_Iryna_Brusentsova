@@ -83,7 +83,7 @@ section {
   text-transform: uppercase;
 
   @media (orientation: portrait) {
-    font-size: 28pt;
+    font-size: 24px;
   }
 }
 
@@ -287,12 +287,7 @@ input {
   .btn-group button {
     padding: 8px 16px;   
   }
-  .btn-group {
-   
-    padding: 24px 36px ;
-    margin: 0 15px 15px 15px;
-   
-  }
+ 
   .main_foto {
     height: 70%;
     width: 70%;
