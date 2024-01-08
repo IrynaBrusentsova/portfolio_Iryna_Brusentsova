@@ -83,7 +83,7 @@ section {
   text-transform: uppercase;
 
   @media (orientation: portrait) {
-    font-size: 20pt;
+    font-size: 28pt;
   }
 }
 
@@ -281,6 +281,18 @@ input {
   }
 }
 @media (max-width: 640px) {
+  .splash {
+    height: 30vh;  
+  }
+  .btn-group button {
+    padding: 8px 16px;   
+  }
+  .btn-group {
+   
+    padding: 24px 36px ;
+    margin: 0 15px 15px 15px;
+   
+  }
   .main_foto {
     height: 70%;
     width: 70%;
@@ -289,5 +301,6 @@ input {
     grid-template-columns: 1fr;
     gap: 10px;
   }
+
  
 }
