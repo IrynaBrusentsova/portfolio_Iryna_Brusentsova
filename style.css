@@ -83,7 +83,7 @@ section {
   text-transform: uppercase;
 
   @media (orientation: portrait) {
-    font-size: 20pt;
+    font-size: 18pt;
   }
 }
 
