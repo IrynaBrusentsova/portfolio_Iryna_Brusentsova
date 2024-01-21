@@ -29,7 +29,7 @@ section {
 
 /*Splash*/
 .splash {
-  height: 60vh;
+  height: 100vh;
   position: relative;
 
   background: url(img/splash.jpg) fixed center center;
