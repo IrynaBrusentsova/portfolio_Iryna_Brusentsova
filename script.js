@@ -19,7 +19,7 @@ const langArr = {
   },
   "about-description-3": {
     ua: "Я почала дослідницький рух в цьому напрямку, який навіть не знала, як називається) Згодом з'ясувалося, що цей напрямок - фронтенд розробка. Мені було трохи страшно прийняти рішення про зміну професії. Але лозунг “Ввійти в АйТі після 39-ти” мені допоміг))Тому, я кажу, що вивчаю фронтенд не з нуля, з мінуса. І це правда.",
-    en: "I began to discover this direction, which I even didn`t know haw it called. I later clearned that was frontend development.I was a little afraid to make the decision to change my profession. But the slogan `Enter IT after 39` helped me)). That is why I say that I  study the frontend not from null, but from minus.It`s true.",
+    en: "I began to discover this direction, which I even didn`t know haw it called. I later clearned that was frontend development.I was a little afraid to make the decision to change my profession. But the slogan `Enter IT after 39` helped me)). That is why I say that I  study the frontend not from null, but from minus.It`s truth.",
   },
   "about-description-4": {
     ua: "Було вже підібрано відповідний курс для навчання, але почалася війна... Багато людей втратили свої життєві орієнтири, роботу, все змінилося.Я переїхала до Польщі. Почала вивчати фронтенд самостійно за допомогою курсів на ютюбі, спільнот в телеграм та ін. І тут, випадково дізналася, що можна отримати грант на навчання за напрямком Frontend developer від польської школи програмування Kodilla шляхом невеличкого конкурса, правда. А саме з 1500 претендентів було обрано 15 людей. Авжеж, я отримала той грант! Далі була дуже насичена программа навчання, опрацьований величезний об'єм інформації, виконані дедлайни. Та-дам! Курс успішно закінчено!",
