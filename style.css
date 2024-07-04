@@ -33,6 +33,7 @@ section {
 
 /*Splash*/
 .splash {
+  width: 100%;
   height: 100vh;
   position: relative;
 
