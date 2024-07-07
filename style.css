@@ -69,6 +69,65 @@ section {
     transform: scaleX(1);
   }
 }
+.boxes div{
+  position: absolute;
+  width: 6rem;
+  height: 6rem;
+  background: transparent;
+  border: .4rem solid  #FFD700;
+  }
+  .boxes div:nth-child(1){
+    width: 5rem;
+    height: 5rem;
+    top: 40%;
+    left:70%;
+    animation: anime 3s infinite linear;
+  }
+  .boxes div:nth-child(2){
+    top: 20%;
+    left:50%;
+    animation: anime 5s infinite linear;
+  }
+  .boxes div:nth-child(3){
+    width: 4rem;
+    height: 4rem;
+    top: 80%;
+    left:10%;
+    animation: anime 3s infinite linear;
+  }
+  .boxes div:nth-child(4){
+    top: 78%;
+    left:60%;
+    animation: anime 4s infinite linear;
+  }
+  .boxes div:nth-child(5){
+    width: 8rem;
+    height: 8rem;
+    top: 55%;
+    left:35%;
+    animation: anime 3s infinite linear;
+  }
+  .boxes div:nth-child(6){
+    top: 15%;
+    left:5%;
+    animation: anime 4s infinite linear;
+  }
+  @keyframes anime {
+    0%{
+      transform: scale(0)
+      /* translateY:(-9rem) */
+      rotate(360deg);
+      opacity: 1;
+    }
+    100%{
+      transform: scale(1.2)
+      rotate(-225deg);
+      opacity: 0;
+      border-radius: 50%;
+    }
+  }
+
+
 
 .btn-group {
   display: flex;
