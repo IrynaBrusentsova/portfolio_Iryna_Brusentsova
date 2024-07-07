@@ -181,6 +181,17 @@ section {
   border-radius: 50%;
   margin-bottom: 50px;
 }
+.about-description-1,
+.about-description-2,
+.about-description-3,
+.about-description-4,
+.about-description-5
+{
+  text-align: justify;
+  text-indent: 5em;
+}
+
+
 
 /*Skills*/
 .my-skills {
