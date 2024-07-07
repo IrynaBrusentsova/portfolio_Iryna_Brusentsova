@@ -55,7 +55,7 @@ section {
   left: 0;
   width: 100%;
   height: 0.3rem;
-  background: #e6463d;
+  background: #FF69B4;
   transform-origin: left;
   z-index: 15;
   animation: progress linear;
@@ -88,17 +88,18 @@ section {
 
 .btn-group button {
   padding: 4px 8px;
-  border: 1px solid #ff5e57;
+  /* border: 1px solid #ff5e57; */
+  border: 1px solid #FF69B4;
   border-radius: 5px;
   color: #f0f0f0;
   font-weight: bold;
-  background-color: #ff5e57;
+  background-color: #FF69B4;
   transition: 0.8s;
 }
 .btn-group button:hover,
 .btn-group button:focus {
-  opacity: 0.8;
   transition: 0.5s;
+  background-color: #c71585;
 }
 .page-title {
   color: #fff;
@@ -107,6 +108,10 @@ section {
   position: relative;
   font-family: "Georgia", sans-serif;
   text-transform: uppercase;
+  background:linear-gradient(90deg,   #FF69B4,   #9932CC,   #8B008B,   #CD5C5C, #9400D3);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-stroke: .3rem transparent;
 
   @media (orientation: portrait) {
     font-size: 18pt;
@@ -121,13 +126,17 @@ section {
   width: 100px;
   height: 10px;
   transform: translateX(-50%);
-  background-color: #ff5e57;
+  background-color: #FF69B4;
 }
 .page-subtitle {
   color: #fff;
   font-size: 18px;
   margin: 48px 0 0 0;
   text-transform: uppercase;
+  background:linear-gradient(90deg,   #FF69B4,   #9932CC,   #8B008B,   #CD5C5C, #9400D3);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-stroke: .3rem transparent;
 }
 
 /*Intro*/
@@ -156,7 +165,7 @@ section {
   width: 50px;
   height: 10px;
   transform: translateX(-50%);
-  background-color: #ff5e57;
+  background-color: #FF69B4;
 }
 
 /*About*/
@@ -168,7 +177,7 @@ section {
   height: 35%;
   width: 35%;
   object-fit: contain;
-  border: 2px solid #ff5e57;
+  border: 2px solid #FF69B4;
   border-radius: 50%;
   margin-bottom: 50px;
 }
@@ -183,7 +192,7 @@ section {
 }
 .btn-skills {
   padding: 8px 15px;
-  background-color: #ff5e57;
+  background-color: #FF69B4;
   color: #fff;
   font-size: 20px;
   border-radius: 8px;
@@ -210,7 +219,7 @@ section {
 a {
   text-decoration: none;
   padding: 12px 12px;
-  background-color: #ff5e57;
+  background-color: #FF69B4;
   color: #fff;
   text-transform: uppercase;
   border: none;
@@ -271,7 +280,7 @@ input {
 
 .btn-form button {
   padding: 18px;
-  background-color: #ff5e57;
+  background-color: #FF69B4;
   color: #fff;
   text-transform: uppercase;
 }
